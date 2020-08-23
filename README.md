@@ -28,7 +28,7 @@ This script requires the following modules:
 * Get all the role group members of 'Company Administrators'
 
 ```PowerShell
-.\Get-AzurePrivilegedRoleReport.ps1 -RoleName 'Company Administator' -Verbose
+.\Get-AzurePrivilegedRoleReport.ps1 -RoleName 'Company Administrator' -Verbose
 ```
 
 ## Example Output
